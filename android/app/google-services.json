@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1057646852958",
+    "project_id": "pet-intagram",
+    "storage_bucket": "pet-intagram.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057646852958:android:336bc291a57113de99edcf",
+        "android_client_info": {
+          "package_name": "com.example.pet_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZekdD1bKP7IL3vpcNzuPyk4af_wUf7sY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
